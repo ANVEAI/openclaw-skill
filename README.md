@@ -26,7 +26,26 @@ This skill gives your OpenClaw agent full access to the AnveVoice platform via *
 - 🛒 **E-commerce** — Guide shoppers to products and handle orders
 - 📊 **Analytics** — Understand visitor sentiment and conversation patterns
 
-## Quick Start
+## 🚀 Why Choose AnveVoice?
+
+| Problem | AnveVoice Solution |
+|---------|-------------------|
+| 70% visitors leave without engaging | Voice captures attention, reduces bounce 25-40% |
+| Chatbots feel robotic | Natural voice conversations feel human |
+| Support tickets pile up | AI deflects 60% of repetitive queries |
+| Mobile forms are frustrating | Voice input, no typing needed |
+| Losing leads to forms | Conversational lead capture converts 3x better |
+
+## 🏢 Perfect For These Industries
+
+**SaaS** — Product demos, onboarding, feature discovery  
+**E-commerce** — Product search, order tracking, returns  
+**Healthcare** — Appointment booking, symptom checking  
+**Education** — Course guidance, doubt resolution  
+**Real Estate** — Property search, virtual tours  
+**Finance** — Product recommendations, KYC assistance
+
+## Quick Start (5 Minutes)
 
 ### 1. Install the skill
 
@@ -83,6 +102,34 @@ openclaw skills test anvevoice --input "ping"
 **"Get the embed code for my bot"** → `get_embed_code` with `bot_id`
 
 See the [examples/](./examples/) folder for full conversation scenarios.
+
+## 💰 Pricing
+
+| Plan | Price | Includes |
+|------|-------|----------|
+| **Free** | ₹0 | 50K tokens, 1 embed, basic analytics |
+| **Growth** | ₹2,999/mo | 2M tokens, 5 embeds, advanced analytics |
+| **Scale** | ₹9,999/mo | 8M tokens, unlimited embeds, full features |
+| **Enterprise** | Custom | Unlimited everything, SLA, dedicated support |
+
+🎁 **Special:** 2× tokens if subscribed before March 31, 2026
+
+## 🆚 AnveVoice vs. Alternatives
+
+| Feature | AnveVoice | Intercom | Drift | Tidio |
+|---------|-----------|----------|-------|-------|
+| Voice Interface | ✅ Native | ❌ No | ❌ No | ❌ No |
+| India Pricing | ✅ ₹2,999/mo | ❌ $74+/mo | ❌ $400+/mo | ❌ $29+/mo |
+| 22 Indian Languages | ✅ Yes | ❌ Limited | ❌ Limited | ❌ Limited |
+| Session Recordings | ✅ Yes | ⚠️ Limited | ❌ No | ❌ No |
+| Visitor Intelligence | ✅ Deep | ⚠️ Basic | ⚠️ Basic | ⚠️ Basic |
+
+## 📈 Results You Can Expect
+
+- **25-40%** reduction in bounce rate
+- **3x** more qualified leads captured
+- **60%** deflection of repetitive support queries
+- **Instant** response time vs. hours/days
 
 ## Technical Details
 
