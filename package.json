@@ -1,0 +1,36 @@
+{
+  "name": "@anvevoice/openclaw-skill",
+  "version": "1.0.0",
+  "description": "OpenClaw skill for AnveVoice — manage AI voice bots, pull analytics, extract leads, and more.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "openclaw",
+    "anvevoice",
+    "voice-ai",
+    "mcp",
+    "skill",
+    "chatbot",
+    "voice-assistant"
+  ],
+  "author": "AnveVoice <hello@anvevoice.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvevoice/openclaw-skill"
+  },
+  "homepage": "https://anvevoice.com",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist/",
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ]
+}
