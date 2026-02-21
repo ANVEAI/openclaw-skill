@@ -7,7 +7,7 @@
 
 import { mcpCall } from "./client";
 import { ALL_TOOLS } from "./tools";
-import type { AnveToolResult, AnveToolName } from "./types";
+import type { AnveToolResult } from "./types";
 
 // Re-export for consumers
 export { mcpCall } from "./client";
