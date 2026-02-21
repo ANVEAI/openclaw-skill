@@ -15,7 +15,24 @@ function getApiKey(): string {
   const key = process.env.ANVEVOICE_API_KEY;
   if (!key) {
     throw new Error(
-      "ANVEVOICE_API_KEY is not set. Run: openclaw config set ANVEVOICE_API_KEY anvk_your_key"
+      `
+┌─────────────────────────────────────────────────────────────────┐
+│  🔑 ANVEVOICE_API_KEY is not set                                │
+├─────────────────────────────────────────────────────────────────┤
+│  To get your API key:                                           │
+│                                                                 │
+│  1. Go to https://anvevoice.com/developer                       │
+│  2. Sign in to your AnveVoice account                           │
+│  3. Click "Generate API Key"                                    │
+│  4. Copy the key (starts with "anvk_")                          │
+│                                                                 │
+│  Then configure it with:                                        │
+│  $ openclaw config set ANVEVOICE_API_KEY anvk_your_key_here     │
+│                                                                 │
+│  Or set as environment variable:                                │
+│  $ export ANVEVOICE_API_KEY=anvk_your_key_here                  │
+└─────────────────────────────────────────────────────────────────┘
+    `.trim()
     );
   }
   return key;
