@@ -1,12 +1,30 @@
 # 🎙️ AnveVoice OpenClaw Skill
 
-> Connect your OpenClaw agent to [AnveVoice](https://anvevoice.com) — manage AI voice bots, pull analytics, extract leads, and more.
+> Connect your OpenClaw agent to [AnveVoice](https://anvevoice.com) — add AI voice assistants to websites for customer support, lead generation, accessibility, and engagement.
+
+[![Customer Experience](https://img.shields.io/badge/Customer%20Experience-🎙️-blue)]()
+[![Voice AI](https://img.shields.io/badge/Voice%20AI-🗣️-green)]()
+[![Support](https://img.shields.io/badge/Support-🤝-orange)]()
+[![Accessibility](https://img.shields.io/badge/Accessibility-♿-purple)]()
 
 ## What is AnveVoice?
 
-AnveVoice lets businesses add AI voice assistants to their websites. Visitors talk to "Anve" naturally, and Anve answers questions, navigates pages, fills forms, and completes tasks.
+AnveVoice lets businesses add **AI voice assistants** to their websites. Visitors talk naturally, and the AI answers questions, navigates pages, fills forms, captures leads, and completes tasks — all through voice.
+
+**Perfect for:** Customer support automation, lead capture, website accessibility, sales assistance, education, healthcare intake, and e-commerce guidance.
 
 This skill gives your OpenClaw agent full access to the AnveVoice platform via **46 MCP tools**.
+
+## 🎯 Use Cases
+
+- 🤖 **24/7 Customer Support** — Deflect repetitive tickets with instant voice answers
+- 🎯 **Lead Generation** — Capture visitor contact info through natural conversations  
+- ♿ **Accessibility** — Serve users who prefer voice over typing
+- 📈 **Engagement** — Reduce bounce rates with interactive voice experiences
+- 🎓 **Education** — Create voice-enabled learning experiences
+- 🏥 **Healthcare** — Automate patient intake and appointment booking
+- 🛒 **E-commerce** — Guide shoppers to products and handle orders
+- 📊 **Analytics** — Understand visitor sentiment and conversation patterns
 
 ## Quick Start
 
