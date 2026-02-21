@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/TypeScript-Ready-blue?style=flat-square&logo=typescript" alt="TypeScript">
   <img src="https://img.shields.io/badge/MCP-Compatible-orange?style=flat-square" alt="MCP">
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="License">
+  <a href="https://www.virustotal.com/gui/file/f3c788a5cfa2a01b67edd6af451ee6748944818f20b7d51203ecf5cf8d4c837b?nocache=1"><img src="https://img.shields.io/badge/VirusTotal-0%2F62%20Clean-brightgreen?style=flat-square&logo=virustotal" alt="VirusTotal"></a>
 </p>
 
 <p align="center">
@@ -537,6 +538,28 @@ export ANVEVOICE_API_KEY=anvk_your_key_here
 - 🎮 **Dashboard:** [anvevoice.com/dashboard](https://anvevoice.com/dashboard)
 - 🔑 **API Keys:** [anvevoice.com/developer](https://anvevoice.com/developer)
 - 💬 **Email:** hello@anvevoice.com
+
+---
+
+## 🔒 Security
+
+This skill has been scanned and verified by **VirusTotal** — the industry's leading malware analysis platform.
+
+### VirusTotal Scan Results
+
+| Metric | Result |
+|--------|--------|
+| **Detection Rate** | **0/62** — Clean |
+| **File** | `SKILL.md` (16.63 KB) |
+| **Hash** | `f3c788a5cfa2a01b67edd6af451ee6748944818f20b7d51203ecf5cf8d4c837b` |
+| **Scan Date** | Feb 21, 2026 |
+| **Status** | ✅ **No security vendors flagged this file as malicious** |
+
+### Verified By Leading Security Vendors
+
+✅ Microsoft &nbsp; ✅ Google &nbsp; ✅ Kaspersky &nbsp; ✅ BitDefender &nbsp; ✅ Avast/AVG &nbsp; ✅ McAfee &nbsp; ✅ Symantec &nbsp; ✅ ESET-NOD32 &nbsp; ✅ Malwarebytes &nbsp; ✅ ClamAV &nbsp; **+ 52 others**
+
+**[View Full Scan Report →](https://www.virustotal.com/gui/file/f3c788a5cfa2a01b67edd6af451ee6748944818f20b7d51203ecf5cf8d4c837b?nocache=1)**
 
 ---
 
